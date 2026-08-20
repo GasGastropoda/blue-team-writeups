@@ -3,7 +3,7 @@
 ## Summary
 A reflected XSS attack was detected against an internal web server. The attacker had attempted multiple XSS payloads over an 11 minute period. All malicious injection attmepts were unsuccessful.
 
-**Verdit: True Positive - Attempted Attack with No Compromise**
+**Verdict: True Positive - Attempted Attack with No Compromise**
 
 ---
 
